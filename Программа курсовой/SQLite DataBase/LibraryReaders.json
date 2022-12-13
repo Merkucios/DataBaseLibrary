@@ -1,0 +1,340 @@
+{
+    "Readers": [
+        {
+            "id_reader": 1
+        },
+        {
+            "id_reader": 3
+        },
+        {
+            "id_reader": 4
+        },
+        {
+            "id_reader": 5
+        },
+        {
+            "id_reader": 6
+        },
+        {
+            "id_reader": 7
+        },
+        {
+            "id_reader": 8
+        },
+        {
+            "id_reader": 9
+        },
+        {
+            "id_reader": 10
+        },
+        {
+            "id_reader": 11
+        },
+        {
+            "id_reader": 12
+        },
+        {
+            "id_reader": 13
+        },
+        {
+            "id_reader": 14
+        },
+        {
+            "id_reader": 15
+        },
+        {
+            "id_reader": 100
+        },
+        {
+            "id_reader": 101
+        },
+        {
+            "id_reader": 102
+        },
+        {
+            "id_reader": 103
+        },
+        {
+            "id_reader": 104
+        },
+        {
+            "id_reader": 105
+        },
+        {
+            "id_reader": 106
+        }
+    ],
+    "Persons": [
+        {
+            "id_person": 10,
+            "id_reader_person": 1,
+            "fio": "\u041d\u0430\u0437\u0430\u0440\u0435\u043d\u043a\u043e \u041e.\u0412.",
+            "gender": "\u041c",
+            "birthday": 1991,
+            "age": 31,
+            "education": "\u0412\u044b\u0441\u0448\u0435\u0435"
+        },
+        {
+            "id_person": 12,
+            "id_reader_person": 3,
+            "fio": "\u0416\u0443\u0440\u0430\u0432\u043b\u0451\u0432 \u041e.\u0412.",
+            "gender": "\u041c",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 13,
+            "id_reader_person": 4,
+            "fio": "\u0416\u0443\u043c\u0438\u0433\u0438\u043d\u0430 \u0412.\u0414.",
+            "gender": "\u0416",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 14,
+            "id_reader_person": 5,
+            "fio": "\u0414\u0435\u0440\u0431\u0438\u043d \u0413.\u0421.",
+            "gender": "\u041c",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 15,
+            "id_reader_person": 6,
+            "fio": "\u0417\u0430\u0434\u043e\u043d\u0441\u043a\u0438\u0439 \u0421.\u0421.",
+            "gender": "\u041c",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 16,
+            "id_reader_person": 7,
+            "fio": "\u041b\u0430\u0432\u0440\u043e\u0432 \u041b.\u041e.",
+            "gender": "\u041c",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 17,
+            "id_reader_person": 8,
+            "fio": "\u041b\u043e\u0441\u0435\u0432 \u041d.\u0410.",
+            "gender": "\u041c",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 18,
+            "id_reader_person": 9,
+            "fio": "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432 \u0410.\u0410.",
+            "gender": "\u041c",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 19,
+            "id_reader_person": 10,
+            "fio": "\u0417\u0432\u043e\u043d\u0430\u0440\u0451\u0432\u0430 \u0415.\u0418.",
+            "gender": "\u0416",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 20,
+            "id_reader_person": 11,
+            "fio": "\u041e\u0432\u0447\u0430\u0440\u0435\u043d\u043a\u043e \u0421.\u0410.",
+            "gender": "\u0416",
+            "birthday": 1999,
+            "age": 23,
+            "education": "\u0412\u044b\u0441\u0448\u0435\u0435"
+        },
+        {
+            "id_person": 21,
+            "id_reader_person": 100,
+            "fio": "\u041a\u0430\u043b\u0438\u043d\u0438\u0447\u0435\u043d\u043a\u043e \u042e.\u0410.",
+            "gender": "\u0416",
+            "birthday": 1989,
+            "age": 33,
+            "education": "\u0412\u044b\u0441\u0448\u0435\u0435"
+        },
+        {
+            "id_person": 22,
+            "id_reader_person": 101,
+            "fio": "\u0414\u0438\u0434\u0435\u043d\u043a\u043e \u041e.\u0412.",
+            "gender": "\u0416",
+            "birthday": 1980,
+            "age": 42,
+            "education": "\u0412\u044b\u0441\u0448\u0435\u0435"
+        },
+        {
+            "id_person": 23,
+            "id_reader_person": 102,
+            "fio": "\u0420\u0435\u043f\u043b\u044f\u043d\u0441\u043a\u0430\u044f \u041e.\u0412.",
+            "gender": "\u0416",
+            "birthday": 1991,
+            "age": 31,
+            "education": "\u0412\u044b\u0441\u0448\u0435\u0435"
+        },
+        {
+            "id_person": 24,
+            "id_reader_person": 103,
+            "fio": "\u0422\u0430\u0440\u0430\u0441\u043e\u0432 \u041e.\u042e.",
+            "gender": "\u041c",
+            "birthday": 1973,
+            "age": 49,
+            "education": "\u0412\u044b\u0441\u0448\u0435\u0435"
+        },
+        {
+            "id_person": 26,
+            "id_reader_person": 12,
+            "fio": "\u0421\u0430\u043c\u043e\u0439\u043b\u0435\u043d\u043a\u043e \u0415.\u0413.",
+            "gender": "\u0416",
+            "birthday": 1996,
+            "age": 26,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 27,
+            "id_reader_person": 13,
+            "fio": "\u0410\u043a\u0441\u0435\u043d\u0435\u043d\u043a\u043e \u0414.\u0412.",
+            "gender": "\u041c",
+            "birthday": 2014,
+            "age": 8,
+            "education": "\u0428\u043a\u043e\u043b\u044c\u043d\u043e\u0435"
+        },
+        {
+            "id_person": 28,
+            "id_reader_person": 14,
+            "fio": "\u0421\u0430\u0432\u043e\u0441\u0438\u043d\u0430 \u0421.\u0410.",
+            "gender": "\u0416",
+            "birthday": 2004,
+            "age": 18,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        },
+        {
+            "id_person": 29,
+            "id_reader_person": 15,
+            "fio": "\u041c\u0430\u0442\u0432\u0435\u0435\u043d\u043a\u043e \u0410.\u041f.",
+            "gender": "\u0416",
+            "birthday": 2015,
+            "age": 7,
+            "education": "\u0428\u043a\u043e\u043b\u044c\u043d\u043e\u0435"
+        },
+        {
+            "id_person": 34,
+            "id_reader_person": 104,
+            "fio": "\u041f\u043e\u043b\u044f\u043a\u043e\u0432 \u0410.\u041d.",
+            "gender": "\u041c",
+            "birthday": 1989,
+            "age": 33,
+            "education": "\u0412\u044b\u0441\u0448\u0435\u0435"
+        },
+        {
+            "id_person": 35,
+            "id_reader_person": 105,
+            "fio": "\u041f\u0440\u043e\u043a\u043e\u043f\u0435\u043d\u043a\u043e \u042d.\u0424.",
+            "gender": "\u041c",
+            "birthday": 1984,
+            "age": 38,
+            "education": "\u0412\u044b\u0441\u0448\u0435\u0435"
+        },
+        {
+            "id_person": 39,
+            "id_reader_person": 106,
+            "fio": "\u041b\u044c\u0432\u043e\u0432 \u041e.\u041f.",
+            "gender": "\u041c",
+            "birthday": 1997,
+            "age": 25,
+            "education": "\u0421\u0440\u0435\u0434\u043d\u0435\u0435"
+        }
+    ],
+    "Addresses": [
+        {
+            "id_reader_address": 1,
+            "address": "\u0423\u043b. \u041b\u0435\u0439\u0442\u0435\u043d\u0430\u043d\u0442\u0430 \u041e\u0440\u043b\u043e\u0432\u0430, \u0434.12, \u043a\u0432.4"
+        },
+        {
+            "id_reader_address": 3,
+            "address": "\u0423\u043b. \u041c\u0443\u0445\u0438\u043d\u0430, \u0434.7, \u043a\u0432.92"
+        },
+        {
+            "id_reader_address": 4,
+            "address": "\u0423\u043b. \u041b\u0435\u043d\u0438\u043d\u0430, \u0434.13, \u043a\u0432.9\u0430"
+        },
+        {
+            "id_reader_address": 5,
+            "address": "\u0423\u043b. \u0414\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0446\u0435\u0432\u0430, \u0434.2\u0430, \u043a\u0432.13"
+        },
+        {
+            "id_reader_address": 6,
+            "address": "\u0423\u043b. \u041b\u0435\u0439\u0442\u0435\u043d\u0430\u043d\u0442\u0430 \u041e\u0440\u043b\u043e\u0432\u0430, \u0434.19, \u043a\u0432.9\u0431"
+        },
+        {
+            "id_reader_address": 7,
+            "address": "\u0423\u043b. \u041c\u0443\u0445\u0438\u043d\u0430, \u0434.27, \u043a\u0432.4"
+        },
+        {
+            "id_reader_address": 8,
+            "address": "\u0423\u043b. \u041c\u0443\u0445\u0438\u043d\u0430, \u0434.13, \u043a\u0432.9"
+        },
+        {
+            "id_reader_address": 9,
+            "address": "\u0423\u043b. \u0414\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0446\u0435\u0432\u0430, \u0434.2, \u043a\u0432.41"
+        },
+        {
+            "id_reader_address": 10,
+            "address": "\u0423\u043b. \u0413\u0430\u043c\u0430\u0440\u043d\u0438\u043a\u0430, \u0434.9, \u043a\u0432.82"
+        },
+        {
+            "id_reader_address": 11,
+            "address": "\u0423\u043b. \u0418\u0441\u0442\u043e\u043c\u0438\u043d\u0430, \u0434.6, \u043a\u0432.2"
+        },
+        {
+            "id_reader_address": 100,
+            "address": "\u0423\u043b. \u0414\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0446\u0435\u0432\u0430, \u0434.8, \u043a\u0432.2\u0430"
+        },
+        {
+            "id_reader_address": 101,
+            "address": "\u0423\u043b. \u0413\u0430\u043c\u0430\u0440\u043d\u0438\u043a\u0430, \u0434.23, \u043a\u0432.5"
+        },
+        {
+            "id_reader_address": 102,
+            "address": "\u0423\u043b. \u0418\u0441\u0442\u043e\u043c\u0438\u043d\u0430, \u0434.8, \u043a\u0432.24"
+        },
+        {
+            "id_reader_address": 103,
+            "address": "\u0423\u043b. \u041b\u0435\u0439\u0442\u0435\u043d\u0430\u043d\u0442\u0430 \u041e\u0440\u043b\u043e\u0432\u0430, \u0434.9, \u043a\u0432.24"
+        },
+        {
+            "id_reader_address": 12,
+            "address": "\u0423\u043b. \u0414\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0446\u0435\u0432\u0430, \u0434.13, \u043a\u0432.9\u0410"
+        },
+        {
+            "id_reader_address": 13,
+            "address": "\u0423\u043b. \u0414\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0446\u0435\u0432\u0430, \u0434.15, \u043a\u0432.26"
+        },
+        {
+            "id_reader_address": 14,
+            "address": "\u0423\u043b. \u0418\u0441\u0442\u043e\u043c\u0438\u043d\u0430, \u0434.14, \u043a\u0432.7"
+        },
+        {
+            "id_reader_address": 15,
+            "address": "\u0423\u043b. \u0414\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0446\u0435\u0432\u0430, \u0434.4, \u043a\u0432.4\u0430"
+        },
+        {
+            "id_reader_address": 104,
+            "address": "\u0423\u043b. \u041b\u0435\u043d\u0438\u043d\u0430, \u0434.13, \u043a\u0432.52"
+        },
+        {
+            "id_reader_address": 105,
+            "address": "\u0423\u043b. \u0414\u0438\u043a\u043e\u043f\u043e\u043b\u044c\u0446\u0435\u0432\u0430, \u0434.90, \u043a\u0432.13"
+        }
+    ]
+}
